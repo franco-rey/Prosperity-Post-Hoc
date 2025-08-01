@@ -1,1 +1,1 @@
-# Prosperity-Post-Hoc
+# Prosperity Post-Hoc
